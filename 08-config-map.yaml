@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: akhila
+data:
+  course: "DevOps with AWS"
+  trainer: "akhila"
+  github: "https://github.com/akhila/k8-resources"
